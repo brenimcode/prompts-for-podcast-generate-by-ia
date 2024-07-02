@@ -11,7 +11,7 @@
 - Episódio 2: Melhores Práticas para Gerenciamento de Dados
 
 
-# Projeto Podcast Gerado por I.A.s
+## Projeto Podcast Gerado por I.A.s
 
 Este projeto visa criar um podcast utilizando ferramentas de IA através de prompts refinados, com o personagem Harry Potter como o apresentador, guiando os ouvintes para o caminho filosofal.
 
