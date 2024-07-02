@@ -3,13 +3,13 @@
 
 <p align="center">
 <img 
-    src="./assets/harry3.png"
+    src="./assets/harry3.jpeg"
     width="300"
 />
 </p>
 <p align="center">
 <img 
-    src="./assets/Harry.png"
+    src="./assets/Harry.jpeg"
     width="300"
 />
 </p>
