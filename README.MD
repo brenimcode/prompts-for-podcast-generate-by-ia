@@ -1,7 +1,18 @@
 
 # O Código Filosofal: Segredos do Back-End
 
-
+<p align="center">
+<img 
+    src="./assets/harry3.png"
+    width="300"
+/>
+</p>
+<p align="center">
+<img 
+    src="./assets/Harry.png"
+    width="300"
+/>
+</p>
 
 
 ## 🎙️ Episódios
