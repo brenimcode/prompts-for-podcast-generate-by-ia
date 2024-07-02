@@ -2,30 +2,18 @@
 # O Código Filosofal: Segredos do Back-End
 
 <p align="center">
-<img 
-    src="./assets/harry3.jpeg"
-    width="300"
-/>
+  <img src="./assets/harry3.jpeg" width="300" />
+  <img src="./assets/Harry.jpeg" width="300" />
 </p>
-<p align="center">
-<img 
-    src="./assets/Harry.jpeg"
-    width="300"
-/>
-</p>
-
 
 ## 🎙️ Episódios
 - Episódio 1: Os Segredos da Autenticação em APIs
 - Episódio 2: Melhores Práticas para Gerenciamento de Dados
 
 
-
 # Projeto Podcast Gerado por I.A.s
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Este projeto visa criar um podcast utilizando ferramentas de IA através de prompts refinados, com o personagem Harry Potter como o apresentador, guiando os ouvintes para o caminho filosofal.
 
 ## 💻 Tecnologias utilizadas no projeto
 
